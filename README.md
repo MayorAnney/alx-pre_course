@@ -1,2 +1,3 @@
 My first readme
-# AN UPDATE DONE
+
+Mistakes made
